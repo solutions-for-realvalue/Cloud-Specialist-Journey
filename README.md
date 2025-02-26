@@ -97,5 +97,12 @@ Cloud-Specialist-Journey/
 🔹 Deployed a Web App using Azure App Service.
 🔹 Configured RBAC for user access control.
 
+---
 
+## 🔬 **Hands-On Labs & Practical Exercises**
+For each concept, document step-by-step practical exercises.
+
+Example: Deploy an Azure Virtual Machine (AZ-900-Fundamentals/Hands-On-Labs/VM-Deployment.md)
+
+---
 
