@@ -100,9 +100,9 @@ Cloud-Specialist-Journey/
 ---
 
 ## 🔬 **Hands-On Labs & Practical Exercises**
-For each concept, document step-by-step practical exercises.
+For each concept, **document step-by-step practical exercises.**
 
-Example: Deploy an Azure Virtual Machine (AZ-900-Fundamentals/Hands-On-Labs/VM-Deployment.md)
+**Example: Deploy an Azure Virtual Machine (AZ-900-Fundamentals/Hands-On-Labs/VM-Deployment.md)**
 
 # 🚀 Deploy an Azure Virtual Machine (VM)
 
