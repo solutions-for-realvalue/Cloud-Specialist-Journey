@@ -21,24 +21,24 @@ It serves as a structured **learning log, knowledge base, and implementation gui
 ## 📖 **Learning Roadmap**
 
 ### ✅ **AZ-900: Microsoft Azure Fundamentals**
-🔹 **Cloud Concepts**: Cloud computing, Shared Responsibility Model, IaaS vs. PaaS vs. SaaS.  
-🔹 **Azure Services**: Compute (VMs, Functions), Storage (Blob, Files), Networking (VNet, VPN).  
-🔹 **Identity & Security**: Entra ID (formerly Azure AD), IAM, RBAC, Key Vault.  
-🔹 **Pricing & Cost Management**: Azure Cost Calculator, Budgets.  
-🔹 **Governance & Monitoring**: Azure Policy, Resource Locks, Azure Monitor.  
+- **Cloud Concepts**: Cloud computing, Shared Responsibility Model, IaaS vs. PaaS vs. SaaS.  
+- **Azure Services**: Compute (VMs, Functions), Storage (Blob, Files), Networking (VNet, VPN).  
+- **Identity & Security**: Entra ID (formerly Azure AD), IAM, RBAC, Key Vault.  
+- **Pricing & Cost Management**: Azure Cost Calculator, Budgets.  
+- **Governance & Monitoring**: Azure Policy, Resource Locks, Azure Monitor.  
 
 ### ✅ **AZ-104: Microsoft Azure Administrator** *(Next Phase)*  
-🔹 Managing **Azure identities & access** (RBAC, IAM, PIM).  
-🔹 Implementing **storage solutions** (Blob, Files, Backups).  
-🔹 Deploying & managing **virtual networks** (VNet, NSG, VPN).  
-🔹 Configuring **security, monitoring, and automation**.  
+- Managing **Azure identities & access** (RBAC, IAM, PIM).  
+- Implementing **storage solutions** (Blob, Files, Backups).  
+- Deploying & managing **virtual networks** (VNet, NSG, VPN).  
+- Configuring **security, monitoring, and automation**.  
 
 ### ✅ **Real-World Azure Cloud Projects** *(Advanced Learning & Practical Implementation)*  
-🔹 **Infrastructure as Code (Terraform, ARM Templates).**  
-🔹 **Deploying Kubernetes Workloads on AKS (Azure Kubernetes Service).**  
-🔹 **Automating Cloud Deployments using CI/CD (GitHub Actions, Azure DevOps).**  
-🔹 **Implementing Cloud Security using Azure Security Center & Defender.**  
-🔹 **Optimizing Cost & Performance Monitoring with Azure Monitor & Log Analytics.**  
+- **Infrastructure as Code (Terraform, ARM Templates).**  
+- **Deploying Kubernetes Workloads on AKS (Azure Kubernetes Service).**  
+- **Automating Cloud Deployments using CI/CD (GitHub Actions, Azure DevOps).**  
+- **Implementing Cloud Security using Azure Security Center & Defender.**  
+- **Optimizing Cost & Performance Monitoring with Azure Monitor & Log Analytics.**  
 
 ---
 
@@ -73,29 +73,29 @@ Cloud-Specialist-Journey/
 
 ✅ Key Learnings
 
-🔹 Explained the Shared Responsibility Model.
-🔹 Compared IaaS vs. PaaS vs. SaaS models.
-🔹 Explored Azure Pricing Calculator & Cost Analysis.
+- Explained the Shared Responsibility Model.
+- Compared IaaS vs. PaaS vs. SaaS models.
+- Explored Azure Pricing Calculator & Cost Analysis.
 
 🛠️ Hands-On Work
 
-🔹 Created a Free Azure Account.
-🔹 Set up an Azure Virtual Machine.
-🔹 Configured Storage Account & Blob Storage.
+- Created a Free Azure Account.
+- Set up an Azure Virtual Machine.
+- Configured Storage Account & Blob Storage.
 
 📅 Week 2: Exploring Azure Services
 
 ✅ Key Learnings
 
-🔹 Virtual Networking (VNet, Subnets, NSG, VPN, ExpressRoute).
-🔹 Azure Compute Services (VMs, Azure App Service, Functions).
-🔹 Identity management using Entra ID (Azure AD).
+- Virtual Networking (VNet, Subnets, NSG, VPN, ExpressRoute).
+- Azure Compute Services (VMs, Azure App Service, Functions).
+- Identity management using Entra ID (Azure AD).
 
 🛠️ Hands-On Work
 
-🔹 Created an Azure Virtual Network & Subnet.
-🔹 Deployed a Web App using Azure App Service.
-🔹 Configured RBAC for user access control.
+- Created an Azure Virtual Network & Subnet.
+- Deployed a Web App using Azure App Service.
+- Configured RBAC for user access control.
 
 ---
 
