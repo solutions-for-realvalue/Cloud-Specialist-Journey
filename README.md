@@ -16,7 +16,7 @@ This repository documents my **journey to mastering Microsoft Azure**, from **fu
 
 It serves as:
 
-✔ **A structured learning log** – tracking my progress and key takeaways.**
+✔ **A structured learning log** – tracking my progress and key takeaways.
 
 ✔ **A hands-on implementation guide** – with practical exercises and Terraform automation.
 
@@ -31,12 +31,12 @@ It serves as:
 ### ✅ **AZ-900: Microsoft Azure Fundamentals**
 
 - **Cloud Concepts** – IaaS vs. PaaS vs. SaaS, Shared Responsibility Model.
-- **Azure Services**: Compute (VMs, Functions), Storage (Blob, Files), Networking (VNet, VPN).  
-- **Identity & Security**: Entra ID (formerly Azure AD), IAM, RBAC, Key Vault.  
-- **Pricing & Cost Management**: Azure Cost Calculator, Budgets.  
-- **Governance & Monitoring**: Azure Policy, Resource Locks, Azure Monitor.  
+- **Core Azure Services** – Compute (VMs, Functions), Storage (Blob, Files), Networking (VNet, VPN).
+- **Security & Identity** – Entra ID (formerly Azure AD), IAM, RBAC, Key Vault. 
+- **Pricing & Cost Management** – Azure Cost Calculator, Budgets.
+- **Governance & Monitoring** – Azure Policy, Resource Locks, Azure Monitor.
 
-### ✅ **AZ-104: Microsoft Azure Administrator** *(Next Phase)*
+### ✅ **AZ-104: Microsoft Azure Administrator**
 
 - Managing **Azure identities & access** (RBAC, IAM, PIM).  
 - Implementing **storage solutions** (Blob, Files, Backups).  
@@ -55,7 +55,7 @@ It serves as:
 
 ## 📂 **Repository Structure**
 
-```yaml
+```graphql
 Cloud-Specialist-Journey/
 │── README.md               # Overview of my journey & roadmap  
 │── AZ-900-Fundamentals/    # AZ-900 learning & projects  
