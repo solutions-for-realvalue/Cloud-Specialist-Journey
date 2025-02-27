@@ -12,9 +12,17 @@
 
 ## 📌 **About This Repository**
 
-This repository documents my **journey in learning and mastering Microsoft Azure**, starting with **AZ-900 Microsoft Azure Fundamentals** and progressing towards **AZ-104 (Azure Administrator)** and **real-world cloud engineering projects**.  
+This repository documents my **journey to mastering Microsoft Azure**, from **fundamentals (AZ-900)** to **Azure administration (AZ-104)** and **real-world cloud projects**.  
 
-It serves as a structured **learning log, knowledge base, and implementation guide**, ensuring hands-on experience in cloud computing, infrastructure as code (IaC), security, monitoring, and DevOps best practices.
+It serves as:
+
+✔ **A structured learning log** – tracking my progress and key takeaways.**
+
+✔ **A hands-on implementation guide** – with practical exercises and Terraform automation.
+
+✔ **A portfolio of cloud projects** – showcasing real-world deployments and best practices.
+
+🚀 **Goal**: Build expertise in **Azure cloud infrastructure, security, automation, and DevOps**.
 
 ---
 
@@ -22,7 +30,7 @@ It serves as a structured **learning log, knowledge base, and implementation gui
 
 ### ✅ **AZ-900: Microsoft Azure Fundamentals**
 
-- **Cloud Concepts**: Cloud computing, Shared Responsibility Model, IaaS vs. PaaS vs. SaaS.  
+- **Cloud Concepts** – IaaS vs. PaaS vs. SaaS, Shared Responsibility Model.
 - **Azure Services**: Compute (VMs, Functions), Storage (Blob, Files), Networking (VNet, VPN).  
 - **Identity & Security**: Entra ID (formerly Azure AD), IAM, RBAC, Key Vault.  
 - **Pricing & Cost Management**: Azure Cost Calculator, Budgets.  
