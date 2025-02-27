@@ -77,33 +77,33 @@ Cloud-Specialist-Journey/
 
 ## 🚀 **Current Progress**
 
-📅 Learning AZ-900 | 🔥 Tracking Progress in ***Journal.md***
+📅 **Learning AZ-900** | 🔥 Tracking Progress in ***Journal.md***
 
-### 📖 **Weekly Learning Highlights (Example Entries)**
+### 📖 **Weekly Learning Highlights**
 
-#### 📅 ***Week 1: Understanding Cloud Concepts (AZ-900)***
+#### 📅 ***Week 1: Cloud Concepts (AZ-900)***
 
-✅ Key Learnings
+✅ **Key Learnings**
 
-- Explained the Shared Responsibility Model.
-- Compared IaaS vs. PaaS vs. SaaS models.
-- Explored Azure Pricing Calculator & Cost Analysis.
+- Explained the **Shared Responsibility Model**.
+- Compared **IaaS vs. PaaS vs. SaaS**.
+- Explored **Azure Pricing Calculator** & **Cost Management tools**.
 
-🛠️ Hands-On Work
+🛠️ **Hands-On Work**
 
-- Created a Free Azure Account.
-- Set up an Azure Virtual Machine.
-- Configured Storage Account & Blob Storage.
+- Created a **Free Azure Account**.
+- Set up an **Azure Virtual Machine**.
+- Configured **Storage Account & Blob Storage**.
 
-📅 Week 2: Exploring Azure Services
+📅 **Week 2: Exploring Azure Services**
 
-✅ Key Learnings
+✅ **Key Learnings**
 
 - Virtual Networking (VNet, Subnets, NSG, VPN, ExpressRoute).
 - Azure Compute Services (VMs, Azure App Service, Functions).
-- Identity management using Entra ID (Azure AD).
+- Identity management using **Entra ID (Azure AD)**.
 
-🛠️ Hands-On Work
+🛠️ **Hands-On Work**
 
 - Created an Azure Virtual Network & Subnet.
 - Deployed a Web App using Azure App Service.
