@@ -1,1 +1,1 @@
-# DevOps-Journey
+# Cloud_Specialist-Journey
