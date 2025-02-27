@@ -16,11 +16,9 @@ This repository documents my **journey to mastering Microsoft Azure**, from **fu
 
 It serves as:
 
-✔ **A structured learning log** – tracking my progress and key takeaways.
-
-✔ **A hands-on implementation guide** – with practical exercises and Terraform automation.
-
-✔ **A portfolio of cloud projects** – showcasing real-world deployments and best practices.
+- **A structured learning log** – tracking my progress and key takeaways.
+- **A hands-on implementation guide** – with practical exercises and Terraform automation.
+- **A portfolio of cloud projects** – showcasing real-world deployments and best practices.
 
 🚀 **Goal**: Build expertise in **Azure cloud infrastructure, security, automation, and DevOps**.
 
@@ -105,9 +103,9 @@ Cloud-Specialist-Journey/
 
 🛠️ **Hands-On Work**
 
-- Created an Azure Virtual Network & Subnet.
-- Deployed a Web App using Azure App Service.
-- Configured RBAC for user access control.
+- Created an **Azure Virtual Network & Subnet**.
+- Deployed a **Web App using Azure App Service**.
+- Configured **RBAC for user access control**.
 
 ---
 
@@ -116,9 +114,9 @@ For each concept, **document step-by-step practical exercises.**
 
 **Example: Deploy an Azure Virtual Machine (AZ-900-Fundamentals/Hands-On-Labs/VM-Deployment.md)**
 
-# 🚀 Deploy an Azure Virtual Machine (VM)
+# 🚀 **Deploy an Azure Virtual Machine**
 
-## ✅ Objective
+## ✅ **Objective**
 
 - Learn how to create a Virtual Machine in Azure.
 - Configure networking and security rules.
@@ -151,10 +149,10 @@ Go to [portal.azure.com](https://portal.azure.com) and sign in with your Microso
 
 ## 📌 **Next Steps**
 
-✔ Commit initial setup & learning journal.  
-✔ Start documenting **AZ-900 topics** & hands-on labs.  
-✔ Write **step-by-step tutorials** for each Azure service.  
-✔ Create **Terraform & IaC templates** for automating deployments.  
+- Commit initial setup & learning journal.  
+- Start documenting **AZ-900 topics** & hands-on labs.
+- Write **step-by-step tutorials** for each Azure service.  
+- Create **Terraform & IaC templates** for automating deployments.  
 
 ---
 
