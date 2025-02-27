@@ -21,19 +21,22 @@ It serves as a structured **learning log, knowledge base, and implementation gui
 ## 📖 **Learning Roadmap**
 
 ### ✅ **AZ-900: Microsoft Azure Fundamentals**
+
 - **Cloud Concepts**: Cloud computing, Shared Responsibility Model, IaaS vs. PaaS vs. SaaS.  
 - **Azure Services**: Compute (VMs, Functions), Storage (Blob, Files), Networking (VNet, VPN).  
 - **Identity & Security**: Entra ID (formerly Azure AD), IAM, RBAC, Key Vault.  
 - **Pricing & Cost Management**: Azure Cost Calculator, Budgets.  
 - **Governance & Monitoring**: Azure Policy, Resource Locks, Azure Monitor.  
 
-### ✅ **AZ-104: Microsoft Azure Administrator** *(Next Phase)*  
+### ✅ **AZ-104: Microsoft Azure Administrator** *(Next Phase)*
+
 - Managing **Azure identities & access** (RBAC, IAM, PIM).  
 - Implementing **storage solutions** (Blob, Files, Backups).  
 - Deploying & managing **virtual networks** (VNet, NSG, VPN).  
 - Configuring **security, monitoring, and automation**.  
 
-### ✅ **Real-World Azure Cloud Projects** *(Advanced Learning & Practical Implementation)*  
+### ✅ **Real-World Azure Cloud Projects** *(Advanced Learning & Practical Implementation)*
+
 - **Infrastructure as Code (Terraform, ARM Templates).**  
 - **Deploying Kubernetes Workloads on AKS (Azure Kubernetes Service).**  
 - **Automating Cloud Deployments using CI/CD (GitHub Actions, Azure DevOps).**  
@@ -65,6 +68,7 @@ Cloud-Specialist-Journey/
 ---
 
 ## 🚀 **Current Progress**
+
 📅 Learning AZ-900 | 🔥 Tracking Progress in ***Journal.md***
 
 ### 📖 **Weekly Learning Highlights (Example Entries)**
@@ -107,12 +111,41 @@ For each concept, **document step-by-step practical exercises.**
 # 🚀 Deploy an Azure Virtual Machine (VM)
 
 ## ✅ Objective
+
 - Learn how to create a Virtual Machine in Azure.
 - Configure networking and security rules.
 - Understand VM pricing and cost estimation.
 
+## 🔹 **Step 1: Log into Azure Portal**
 
+Go to [portal.azure.com](https://portal.azure.com) and sign in with your Microsoft account.
 
+## 🔹 **Step 2: Navigate to Virtual Machines**
+
+1. Click on **"Create a resource"**.
+2. Select **"Virtual Machine"**.
+3. Choose a **region** and a **VM size** (e.g., `Standard_B1ls` for low-cost).
+4. Select **Windows/Linux OS** and authentication method (SSH or Password).
+
+## 🔹 **Step 3: Configure Networking**
+
+- Create a **Virtual Network (VNet)**.
+- Define a **Subnet**.
+- Set up a **Network Security Group (NSG)**.
+
+## 🔹 **Step 4: Deploy & Connect**
+
+- Click **"Review + Create"**.
+- After deployment, connect using SSH or RDP.
+- Verify the VM is running.
 
 ---
 
+## 📌 **Next Steps**
+
+✔ Commit initial setup & learning journal.  
+✔ Start documenting **AZ-900 topics** & hands-on labs.  
+✔ Write **step-by-step tutorials** for each Azure service.  
+✔ Create **Terraform & IaC templates** for automating deployments.  
+
+---
