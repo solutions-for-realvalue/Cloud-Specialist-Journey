@@ -149,3 +149,24 @@ Go to [portal.azure.com](https://portal.azure.com) and sign in with your Microso
 ✔ Create **Terraform & IaC templates** for automating deployments.  
 
 ---
+
+## 🤝 Contributing  
+Contributions are welcome! If you'd like to **collaborate, improve documentation, or share best practices**, follow these steps:  
+
+1. **Fork** the repository.  
+2. **Create a new branch** for your feature or bug fix.  
+3. **Make your changes** and commit them.  
+4. **Submit a pull request** for review.  
+
+---
+
+## 📜 License  
+Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.  
+
+---
+
+## 📧 Contact & Connect  
+For any questions, feel free to reach out:  
+
+📩 **Email**: [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
+🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)  
