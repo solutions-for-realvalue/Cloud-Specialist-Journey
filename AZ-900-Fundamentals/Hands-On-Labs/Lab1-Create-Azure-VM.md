@@ -105,3 +105,5 @@ This hands-on lab provides step-by-step instructions to deploy a **Virtual Machi
 
 ## **Conclusion**
 Congratulations! 🎉 You have successfully deployed a Virtual Machine in Azure. You learned how to configure networking, authentication, and storage settings while ensuring secure remote access. You can now experiment with **installing applications, configuring security, and automating VM management** in Azure.
+
+Next, let’s explore the **[Configure Storage in Azure](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/Hands-On-Labs/Lab2-Configure-Storage.md)** in the next section.
