@@ -132,3 +132,4 @@ Congratulations! 🎉 You have successfully:
 
 You can now explore **more advanced IAM features** like **Privileged Identity Management (PIM)** and **Conditional Access Policies for device security**.
 
+Next, let’s explore the **[Using Azure Pricing Calculator](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/Hands-On-Labs/Lab5-Azure-Pricing-Calculator.md)** in the next section.
