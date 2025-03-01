@@ -105,3 +105,4 @@ Congratulations! 🎉 You have successfully:
 
 You can now explore **more advanced storage options**, such as **Azure Table Storage, Queue Storage, and encryption features**.
 
+Next, let’s explore the **[Set Up Network Security in Azure](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/Hands-On-Labs/Lab3-Setup-Network-Security.md)** in the next section.
