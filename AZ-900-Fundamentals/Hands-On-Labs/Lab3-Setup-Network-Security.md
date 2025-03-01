@@ -148,3 +148,5 @@ Congratulations! 🎉 You have successfully:
 - Used **Azure Network Watcher** to test and monitor network security.
 
 You can now explore **more advanced network security features** like **DDoS Protection, Azure Bastion, and Private Endpoints** to further secure your Azure environment.
+
+Next, let’s explore the **[Identity and Access Management in Azure](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/Hands-On-Labs/Lab4-Identity-Access-Management.md)** in the next section.
