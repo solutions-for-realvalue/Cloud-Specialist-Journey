@@ -106,3 +106,4 @@ Congratulations! 🎉 You have successfully:
 
 Understanding **Azure pricing** helps organizations budget effectively and minimize cloud expenses.
 
+Next, let’s explore the **[AZ-104: Microsoft Azure Administrator](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/Journal.md)** *(Upcoming)* certification.
