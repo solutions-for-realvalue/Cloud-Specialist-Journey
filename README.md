@@ -77,19 +77,19 @@ Cloud-Specialist-Journey/
 
 ## 🚀 Real-World Azure Projects
 
-- [**Terraform Infrastructure Automation**](#)
+- [**Terraform Infrastructure Automation**](https://github.com/solutions-for-realvalue/Azure-Infrastructure-Automation)
   - Automated provisioning of Azure infrastructure (VMs, networks, storage)
 
-- [**Kubernetes Application Deployment on AKS**](#)
+- [**Kubernetes Application Deployment on AKS**](https://github.com/solutions-for-realvalue/AKS-Kubernetes-Deployment)
   - Scalable, secure web application deployment
 
-- [**Azure Cloud Security & Compliance**](#)
+- [**Azure Cloud Security & Compliance**](https://github.com/solutions-for-realvalue/Azure-Security-Compliance)
   - Implementation of RBAC, Azure Policies, and security best practices
 
-- [**CI/CD Automation with GitHub Actions & Azure DevOps**](#)
+- [**CI/CD Automation with GitHub Actions & Azure DevOps**](https://github.com/solutions-for-realvalue/Azure-Monitoring-CostManagement)
   - Continuous Integration & Delivery for cloud resources
 
-- [**AI-Driven Cloud Monitoring & Optimization**](#)
+- **AI-Driven Cloud Monitoring & Optimization** (Planned)
   - Performance monitoring & cost optimization using Azure Monitor and AI-driven analytics
 
 ---
