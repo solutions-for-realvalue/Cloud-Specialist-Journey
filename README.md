@@ -37,8 +37,47 @@ This repository tracks my **structured journey** to becoming a **Senior Cloud Sp
 
 ---
 
-
-
+## **📂 Repository Structure**
+```bash
+Cloud-Specialist-Journey/
+│── README.md               # Overview and roadmap
+│── LICENSE                 # MIT License
+│── Journal.md              # Learning log & Progress Tracking
+│── AZ-900-Fundamentals/
+│    ├── 1-Describe-Cloud-Computing/
+│    │     ├── 1.1-Define-Cloud-Computing.md
+│    │     ├── 1.2-Benefits-of-Cloud.md
+│    │     ├── 1.3-Cloud-Service-Types.md
+│    ├── 2-Describe-Azure-Architecture-Services/
+│    │     ├── 2.1-Core-Architecture.md
+│    │     ├── 2.2-Compute-Networking.md
+│    │     ├── 2.3-Storage-Services.md
+│    │     ├── 2.4-Identity-Security.md
+│    ├── 3-Describe-Azure-Management-Governance/
+│    │     ├── 3.1-Cost-Management.md
+│    │     ├── 3.2-Governance-Compliance.md
+│    │     ├── 3.3-Managing-Deploying-Resources.md
+│    │     ├── 3.4-Monitoring-Tools.md
+│    ├── Hands-On-Labs/
+│    │     ├── Lab1-Create-Azure-VM.md
+│    │     ├── Lab2-Configure-Storage.md
+│    │     ├── Lab3-Setup-Network-Security.md
+│    │     ├── Lab4-Identity-Access-Management.md
+│    │     ├── Lab5-Azure-Pricing-Calculator.md
+│    ├── Notes.md
+│── AZ-104-Administrator/
+│── Real-World-Projects/
+│    ├── Azure-Infrastructure-Automation/         # Links to external repo
+│    ├── AKS-Kubernetes-Deployment/               # Links to external repo
+│    ├── Azure-Security-Compliance/               # Links to external repo
+│    ├── Azure-Monitoring-CostManagement/         # Links to external repo
+│── Terraform-IaC/                               # Terraform labs and configurations
+│── Kubernetes-AKS/                              # Kubernetes and AKS learning resources
+│── CI-CD-Automation/                            # CI/CD Pipelines and automation examples
+│── Security-Compliance/                         # Azure security, IAM, and policy frameworks
+│── Monitoring-Logging/                          # Observability and cost tracking resources
+│── Resources/                                   # External learning materials, references
+```
 
 ---
 
