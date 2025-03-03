@@ -15,6 +15,8 @@ This journal serves as a **chronological record** of my learning process, challe
   - Key characteristics: scalability, elasticity, resource pooling.
   - On-premises vs. cloud environments.
 
+- [**1.2 Benefits of Cloud**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/1-Describe-Cloud-Computing/1.2-Benefits-of-Cloud.md)
+  - High availability, scalability, elasticity.
+  - Disaster recovery, security, compliance benefits.
+  - Cost savings with pay-as-you-go models.
 
-
-  
