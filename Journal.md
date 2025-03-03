@@ -32,7 +32,9 @@ This journal serves as a **chronological record** of my learning process, challe
   - Azure regions, availability zones, region pairs.
   - Resource groups, subscriptions, and management hierarchy.
 
-
+- [**2.2 Compute & Networking**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/2-Describe-Azure-Architecture-Services/2.2-Compute-Networking.md)
+  - Virtual Machines (VMs), Azure Kubernetes Service (AKS).
+  - Virtual Networks (VNets), Peering, VPN Gateway, ExpressRoute.
 
 
 
