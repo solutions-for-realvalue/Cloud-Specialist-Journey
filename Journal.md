@@ -40,7 +40,11 @@ This journal serves as a **chronological record** of my learning process, challe
   - Blob storage, file shares, storage redundancy options (LRS, GRS, RA-GRS).
   - Azure SQL Database and Azure Cosmos DB.
 
+- [**2.4 Identity & Security**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/2-Describe-Azure-Architecture-Services/2.4-Identity-Security.md)
+  - Microsoft Entra ID (formerly Azure AD), Role-Based Access Control (RBAC).
+  - Multi-Factor Authentication (MFA) and Azure Key Vault.
 
+---
 
 
 
