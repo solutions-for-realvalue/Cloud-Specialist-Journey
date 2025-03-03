@@ -11,7 +11,9 @@ This repository serves as the **central hub** for tracking my learning journey a
 
 ---
 
+## **About This Repository**
 
+This repository tracks my **structured journey** to becoming a **Senior Cloud Specialist** with expertise in **Microsoft Azure**. It documents my progress from foundational knowledge (**AZ-900 Fundamentals**), through intermediate certification (**AZ-104 Administrator**), and onward to advanced **real-world cloud engineering projects**.
 
 
 
