@@ -20,3 +20,12 @@ This journal serves as a **chronological record** of my learning process, challe
   - Disaster recovery, security, compliance benefits.
   - Cost savings with pay-as-you-go models.
 
+- [**1.3 Cloud Service Types**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/1-Describe-Cloud-Computing/1.3-Cloud-Service-Types.md)
+  - Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS).
+  - Use cases and best practices.
+
+---
+
+
+
+
