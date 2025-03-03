@@ -29,7 +29,13 @@ This repository tracks my **structured journey** to becoming a **Senior Cloud Sp
 - Deploying **virtual machines & networking**
 - Automating infrastructure & deployments
 
+#### **[📌 Real-World Cloud Projects](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/Journal.md)** *(Ongoing)*
+- **[Azure Infrastructure Automation](https://github.com/solutions-for-realvalue/Azure-Infrastructure-Automation)**
+- **[AKS Kubernetes Deployment](https://github.com/solutions-for-realvalue/AKS-Kubernetes-Deployment)**
+- **[Azure Security Compliance](https://github.com/solutions-for-realvalue/Azure-Security-Compliance)**
+- **[Azure Monitoring & Cost Optimization](https://github.com/solutions-for-realvalue/Azure-Monitoring-CostManagement)**
 
+---
 
 
 
