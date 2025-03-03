@@ -15,6 +15,17 @@ This repository serves as the **central hub** for tracking my learning journey a
 
 This repository tracks my **structured journey** to becoming a **Senior Cloud Specialist** with expertise in **Microsoft Azure**. It documents my progress from foundational knowledge (**AZ-900 Fundamentals**), through intermediate certification (**AZ-104 Administrator**), and onward to advanced **real-world cloud engineering projects**.
 
+### **📖 Learning Roadmap**
+
+#### **[📌 AZ-900: Microsoft Azure Fundamentals](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/Journal.md)** *(In Progress)*
+- **[Describe Cloud Computing](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/1-Describe-Cloud-Computing/1.1-Define-Cloud-Computing.md)**
+- **[Describe Azure Architecture & Services](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/2-Describe-Azure-Architecture-Services/2.1-Core-Architecture.md)**
+- **[Describe Azure Management & Governance](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/3-Describe-Azure-Management-Governance/3.1-Cost-Management.md)**
+- **[Hands-On Labs](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/tree/main/AZ-900-Fundamentals/Hands-On-Labs)**
+
+
+
+
 
 
 ---
