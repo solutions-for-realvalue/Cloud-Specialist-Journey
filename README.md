@@ -23,6 +23,12 @@ This repository tracks my **structured journey** to becoming a **Senior Cloud Sp
 - **[Describe Azure Management & Governance](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/3-Describe-Azure-Management-Governance/3.1-Cost-Management.md)**
 - **[Hands-On Labs](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/tree/main/AZ-900-Fundamentals/Hands-On-Labs)**
 
+#### **[📌 AZ-104: Microsoft Azure Administrator](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/Journal.md)** *(Upcoming)*
+- Managing **Azure identities & access**
+- Implementing **Azure storage solutions**
+- Deploying **virtual machines & networking**
+- Automating infrastructure & deployments
+
 
 
 
