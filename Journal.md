@@ -26,6 +26,19 @@ This journal serves as a **chronological record** of my learning process, challe
 
 ---
 
+### **2. Describe Azure Architecture and Services**
+
+- [**2.1 Core Architectural Components of Azure**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/2-Describe-Azure-Architecture-Services/2.1-Core-Architecture.md)
+  - Azure regions, availability zones, region pairs.
+  - Resource groups, subscriptions, and management hierarchy.
+
+
+
+
+
+
+
+
 
 
 
