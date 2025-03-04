@@ -60,6 +60,14 @@ This journal serves as a **chronological record** of my learning process, challe
   - Azure Portal, Azure CLI, PowerShell.
   - ARM Templates and Azure Arc for hybrid cloud management.
 
+- [**3.4 Monitoring Tools**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/3-Describe-Azure-Management-Governance/3.4-Monitoring-Tools.md)
+  - Azure Monitor, Log Analytics, Service Health.
+  - Prometheus and Grafana for custom monitoring.
+
+---
+
+
+
 
 
 
