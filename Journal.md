@@ -46,6 +46,14 @@ This journal serves as a **chronological record** of my learning process, challe
 
 ---
 
+### **3. Describe Azure Management & Governance**
+
+- [**3.1 Cost Management**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/3-Describe-Azure-Management-Governance/3.1-Cost-Management.md)
+  - Azure Pricing Calculator, Cost Management and Billing.
+  - Cost-saving strategies and best practices.
+
+
+
 
 
 
