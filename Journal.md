@@ -56,6 +56,11 @@ This journal serves as a **chronological record** of my learning process, challe
   - Azure Policy, Blueprints, Resource Tags, Locks.
   - Microsoft Defender for Cloud for compliance tracking.
 
+- [**3.3 Managing & Deploying Resources**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/3-Describe-Azure-Management-Governance/3.3-Managing-Deploying-Resources.md)
+  - Azure Portal, Azure CLI, PowerShell.
+  - ARM Templates and Azure Arc for hybrid cloud management.
+
+
 
 
 
