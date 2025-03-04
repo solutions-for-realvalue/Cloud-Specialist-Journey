@@ -130,5 +130,23 @@ This journal serves as a **chronological record** of my learning process, challe
 
 ---
 
+## **Cloud Security & Compliance (IAM, RBAC, Azure Policy)**
 
+**Topics Covered:**
+- Role-Based Access Control (RBAC) and Identity & Access Management (IAM).
+- Configuring Privileged Identity Management (PIM).
+- Implementing security baselines using Azure Policy.
+- Encrypting data at rest, in transit, and in use.
+
+**Hands-on Labs:**
+- Created and managed Entra ID users and roles.
+- Implemented RBAC to control access to Azure resources.
+- Enforced security policies using Azure Policy and Defender for Cloud.
+
+**Key Takeaways:**
+- Least privilege access should always be enforced.
+- Security policies help maintain compliance and governance.
+- Azure Policy is a powerful tool to prevent misconfigurations.
+
+---
 
