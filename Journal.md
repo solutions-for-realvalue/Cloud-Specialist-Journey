@@ -110,7 +110,25 @@ This journal serves as a **chronological record** of my learning process, challe
 
 ---
 
+## **Azure Kubernetes Service (AKS) Deployment & Management**
 
+**Topics Covered:**
+- Fundamentals of Kubernetes & container orchestration.
+- Setting up Azure Kubernetes Service (AKS).
+- Managing Kubernetes workloads with Helm Charts.
+- Securing AKS clusters using RBAC and Azure Policy.
+
+**Hands-on Labs:**
+- Created an AKS cluster with Terraform.
+- Deployed containerized applications using Helm.
+- Configured Ingress Controllers and load balancers for secure access.
+
+**Key Takeaways:**
+- Kubernetes simplifies scaling and managing microservices-based applications.
+- RBAC is crucial for securing Kubernetes workloads.
+- Helm Charts simplify application deployment and versioning.
+
+---
 
 
 
