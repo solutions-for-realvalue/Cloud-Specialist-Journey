@@ -52,7 +52,9 @@ This journal serves as a **chronological record** of my learning process, challe
   - Azure Pricing Calculator, Cost Management and Billing.
   - Cost-saving strategies and best practices.
 
-
+- [**3.2 Governance & Compliance**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/3-Describe-Azure-Management-Governance/3.2-Governance-Compliance.md)
+  - Azure Policy, Blueprints, Resource Tags, Locks.
+  - Microsoft Defender for Cloud for compliance tracking.
 
 
 
