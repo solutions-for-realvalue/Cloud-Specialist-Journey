@@ -66,7 +66,13 @@ This journal serves as a **chronological record** of my learning process, challe
 
 ---
 
+## **Hands-On Labs**
 
+- [**Lab 1: Create an Azure VM**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/Hands-On-Labs/Lab1-Create-Azure-VM.md)
+- [**Lab 2: Configure Storage**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/Hands-On-Labs/Lab2-Configure-Storage.md)
+- [**Lab 3: Setup Network Security**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/Hands-On-Labs/Lab3-Setup-Network-Security.md)
+- [**Lab 4: Identity & Access Management**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/Hands-On-Labs/Lab4-Identity-Access-Management.md)
+- [**Lab 5: Azure Pricing Calculator**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/Hands-On-Labs/Lab5-Azure-Pricing-Calculator.md)
 
 
 
