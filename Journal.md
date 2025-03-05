@@ -179,5 +179,8 @@ This journal serves as a **chronological record** of my learning process, challe
 
 ---
 
+### **Additional Resources**
+- [AZ-900 Fundamentals Notes](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/Notes.md)
+- [GitHub Repository](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey)
 
-
+**Stay tuned for more updates on my Azure Cloud Specialist Journey!**
