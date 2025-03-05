@@ -150,3 +150,27 @@ This journal serves as a **chronological record** of my learning process, challe
 
 ---
 
+## **Monitoring & Cost Optimization**
+
+**Topics Covered:**
+- Introduction to Azure Monitor and Log Analytics.
+- Cost management strategies using Azure Advisor.
+- Setting up alerts for performance and security anomalies.
+- Integrating third-party tools (Prometheus & Grafana) with Azure Monitor.
+
+**Hands-on Labs:**
+- Created dashboards and alert rules in Azure Monitor.
+- Configured Log Analytics workspaces for centralized logging.
+- Implemented budget alerts and auto-scaling policies.
+
+**Key Takeaways:**
+- Monitoring is key to ensuring application reliability and performance.
+- Azure Cost Management provides insights into cloud spending.
+- Proactive alerting helps in identifying and resolving issues quickly.
+
+---
+
+
+
+
+
