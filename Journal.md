@@ -170,7 +170,14 @@ This journal serves as a **chronological record** of my learning process, challe
 
 ---
 
+## **Next Steps:**
+- [ ] Continue refining Terraform automation scripts.
+- [ ] Deepen Kubernetes and Helm knowledge.
+- [ ] Explore advanced security features like Microsoft Sentinel.
+- [ ] Implement serverless architectures with Azure Functions.
+- [ ] Achieve AZ-104 certification.
 
+---
 
 
 
