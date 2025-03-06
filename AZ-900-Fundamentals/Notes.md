@@ -16,6 +16,12 @@ This document contains **key notes, summaries, and references** for the **Micros
   - Public Cloud, Private Cloud, Hybrid Cloud.
 - [Read More](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/1-Describe-Cloud-Computing/1.1-Define-Cloud-Computing.md)
 
+### **1.2 Benefits of Cloud Services**
+- **High Availability, Scalability, and Elasticity**.
+- **Cost Savings** through pay-as-you-go pricing.
+- **Security & Compliance**: Encryption, Identity & Access Management.
+- [Read More](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/1-Describe-Cloud-Computing/1.2-Benefits-of-Cloud.md)
+
 
 
 
