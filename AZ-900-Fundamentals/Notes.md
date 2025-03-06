@@ -67,6 +67,9 @@ This document contains **key notes, summaries, and references** for the **Micros
 - **Microsoft Defender for Cloud** for compliance tracking.
 - [Read More](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/3-Describe-Azure-Management-Governance/3.2-Governance-Compliance.md)
 
-
+### **3.3 Managing & Deploying Resources**
+- **Azure Portal, CLI, PowerShell, ARM Templates**.
+- **Azure Arc for Hybrid Cloud Management**.
+- [Read More](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/3-Describe-Azure-Management-Governance/3.3-Managing-Deploying-Resources.md)
 
 
