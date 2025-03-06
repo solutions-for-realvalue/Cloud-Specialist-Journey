@@ -48,6 +48,11 @@ This document contains **key notes, summaries, and references** for the **Micros
 - **Redundancy: LRS, GRS, RA-GRS**.
 - [Read More](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/2-Describe-Azure-Architecture-Services/2.3-Storage-Services.md)
 
+### **2.4 Identity & Security**
+- **Microsoft Entra ID (Azure AD), RBAC, Multi-Factor Authentication (MFA)**.
+- **Azure Key Vault for secrets management**.
+- [Read More](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/2-Describe-Azure-Architecture-Services/2.4-Identity-Security.md)
 
+---
 
 
