@@ -43,7 +43,10 @@ This document contains **key notes, summaries, and references** for the **Micros
 - **Azure Virtual Network (VNet), Peering, VPN Gateway**.
 - [Read More](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/2-Describe-Azure-Architecture-Services/2.2-Compute-Networking.md)
 
-
+### **2.3 Storage Services**
+- **Blob Storage, File Shares, Storage Tiers**.
+- **Redundancy: LRS, GRS, RA-GRS**.
+- [Read More](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/2-Describe-Azure-Architecture-Services/2.3-Storage-Services.md)
 
 
 
