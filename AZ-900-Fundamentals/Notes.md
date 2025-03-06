@@ -30,5 +30,14 @@ This document contains **key notes, summaries, and references** for the **Micros
 
 ---
 
+## **2. Describe Azure Architecture and Services**
+
+### **2.1 Core Architectural Components of Azure**
+- **Azure Regions**: Physical data center locations.
+- **Availability Zones & Region Pairs** for high availability.
+- **Resource Groups, Subscriptions, Management Groups**.
+- [Read More](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/2-Describe-Azure-Architecture-Services/2.1-Core-Architecture.md)
+
+
 
 
