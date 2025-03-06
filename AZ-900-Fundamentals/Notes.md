@@ -22,7 +22,13 @@ This document contains **key notes, summaries, and references** for the **Micros
 - **Security & Compliance**: Encryption, Identity & Access Management.
 - [Read More](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/1-Describe-Cloud-Computing/1.2-Benefits-of-Cloud.md)
 
+### **1.3 Cloud Service Types**
+- **Infrastructure as a Service (IaaS)**: Virtual Machines, Networking.
+- **Platform as a Service (PaaS)**: App Services, Azure SQL.
+- **Software as a Service (SaaS)**: Microsoft 365, OneDrive.
+- [Read More](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/1-Describe-Cloud-Computing/1.3-Cloud-Service-Types.md)
 
+---
 
 
 
