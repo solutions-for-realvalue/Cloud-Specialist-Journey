@@ -38,6 +38,13 @@ This document contains **key notes, summaries, and references** for the **Micros
 - **Resource Groups, Subscriptions, Management Groups**.
 - [Read More](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/2-Describe-Azure-Architecture-Services/2.1-Core-Architecture.md)
 
+### **2.2 Compute & Networking Services**
+- **Virtual Machines, Containers, AKS (Kubernetes)**.
+- **Azure Virtual Network (VNet), Peering, VPN Gateway**.
+- [Read More](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/2-Describe-Azure-Architecture-Services/2.2-Compute-Networking.md)
+
+
+
 
 
 
