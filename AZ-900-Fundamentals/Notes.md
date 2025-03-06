@@ -55,4 +55,18 @@ This document contains **key notes, summaries, and references** for the **Micros
 
 ---
 
+## **3. Describe Azure Management & Governance**
+
+### **3.1 Cost Management**
+- **Azure Pricing Calculator, Cost Optimization Techniques**.
+- **Reserved Instances vs. Pay-As-You-Go Models**.
+- [Read More](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/3-Describe-Azure-Management-Governance/3.1-Cost-Management.md)
+
+### **3.2 Governance & Compliance**
+- **Azure Policy, Blueprints, Resource Locks**.
+- **Microsoft Defender for Cloud** for compliance tracking.
+- [Read More](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/3-Describe-Azure-Management-Governance/3.2-Governance-Compliance.md)
+
+
+
 
