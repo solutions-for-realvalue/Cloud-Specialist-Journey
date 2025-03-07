@@ -97,3 +97,8 @@ This document contains **key notes, summaries, and references** for the **Micros
 
 ---
 
+## **Additional Resources**
+- **[Journal Log](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/Journal.md)** - Tracks learning progress and milestones.
+- **[GitHub Repository](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey)** - Repository for structured learning.
+
+**Stay tuned for more updates on my Azure Cloud Specialist Journey!**
