@@ -1,178 +1,129 @@
 # ☁️ **Cloud Specialist Journey** 🚀
 
-**Mastering Microsoft Azure from Fundamentals to Real-World Implementation**  
+**Structured Learning & Practical Implementation for Microsoft Azure Cloud Engineering**
 
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)  
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)  
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)  
-[![CI/CD](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)  
-[![DevOps](https://img.shields.io/badge/DevOps-%23FCA121.svg?style=flat-square&logo=dev.to&logoColor=white)](https://azure.microsoft.com/en-us/solutions/devops/)  
-
----
-
-## 📌 **About This Repository**
-
-This repository documents my **journey to mastering Microsoft Azure**, from **fundamentals (AZ-900)** to **Azure administration (AZ-104)** and **real-world cloud projects**.  
-
-It serves as:
-
-- **A structured learning log** – tracking my progress and key takeaways.
-- **A hands-on implementation guide** – with practical exercises and Terraform automation.
-- **A portfolio of cloud projects** – showcasing real-world deployments and best practices.
-
-🚀 **Goal**: Build expertise in **Azure cloud infrastructure, security, automation, and DevOps**.
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://terraform.io)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
 ---
 
-## 📖 **Learning Roadmap**
+## 📌 About This Repository
 
-### ✅ **AZ-900: Microsoft Azure Fundamentals**
+This repository tracks my **structured journey** to becoming a **Senior Cloud Specialist** with expertise in **Microsoft Azure**. It documents my progress from foundational knowledge (AZ-900), through intermediate certification (**AZ-104**), and onward to advanced **real-world cloud engineering projects**, with a strong emphasis on:
 
-- **Cloud Concepts** – IaaS vs. PaaS vs. SaaS, Shared Responsibility Model.
-- **Core Azure Services** – Compute (VMs, Functions), Storage (Blob, Files), Networking (VNet, VPN).
-- **Security & Identity** – Entra ID (formerly Azure AD), IAM, RBAC, Key Vault. 
-- **Pricing & Cost Management** – Azure Cost Calculator, Budgets.
-- **Governance & Monitoring** – Azure Policy, Resource Locks, Azure Monitor.
-
-### ✅ **AZ-104: Microsoft Azure Administrator**
-
-- Managing **Azure identities & access** (RBAC, IAM, PIM).  
-- Implementing **storage solutions** (Blob, Files, Backups).  
-- Deploying & managing **virtual networks** (VNet, NSG, VPN).  
-- Configuring **security, monitoring, and automation**.  
-
-### ✅ **Real-World Azure Cloud Projects** *(Advanced Learning & Practical Implementation)*
-
-- **Infrastructure as Code (Terraform, ARM Templates).**  
-- **Deploying Kubernetes Workloads on AKS (Azure Kubernetes Service).**  
-- **Automating Cloud Deployments using CI/CD (GitHub Actions, Azure DevOps).**  
-- **Implementing Cloud Security using Azure Security Center & Defender.**  
-- **Optimizing Cost & Performance Monitoring with Azure Monitor & Log Analytics.**  
+- **Azure Cloud Infrastructure & Services**
+- **Infrastructure as Code (Terraform, ARM)**
+- **Cloud Security & Compliance**
+- **Monitoring, Automation & CI/CD**
 
 ---
 
-## 📂 **Repository Structure**
+## 📖 Learning Roadmap
 
-```graphql
+### ✅ **Phase 1: AZ-900 Microsoft Azure Fundamentals**
+
+- **Cloud Concepts** – Cloud types, Shared Responsibility Model, Azure Architecture
+- **Core Azure Services** – Compute, Storage, Networking
+- **Security & Identity** – Entra ID, RBAC, Azure Key Vault
+- **Pricing & Cost Management** – Cost calculator, budgeting, optimization
+- **Governance & Compliance** – Azure Policy, Resource Groups, Management Groups, Resource Locks
+
+### 🚧 **Phase 2: AZ-104 Microsoft Azure Administrator** *(Upcoming)*
+
+- Managing Azure identities & access
+- Implementing Azure storage solutions
+- Deploying virtual machines & networking
+- Monitoring & maintaining Azure resources
+- Automating infrastructure & deployments
+
+### 🚀 **Phase 3: Real-World Cloud Projects** *(In Progress)*
+
+- Infrastructure provisioning with **Terraform**
+- Kubernetes deployments with **Azure AKS**
+- Secure cloud solutions (RBAC, Azure Policies, Security Center)
+- Cost and performance optimization
+- Advanced CI/CD pipeline automation (GitHub Actions, Azure DevOps)
+
+---
+
+## 📂 Repository Structure
+
+```
 Cloud-Specialist-Journey/
-│── README.md               # Overview of my journey & roadmap  
-│── AZ-900-Fundamentals/    # AZ-900 learning & projects  
-│   ├── 01-Cloud-Concepts/  # Cloud models, shared responsibility  
-│   ├── 02-Core-Azure-Services/ # Compute, Networking, Storage  
-│   ├── 03-Security-Compliance/ # IAM, Entra ID, RBAC, Encryption  
-│   ├── 04-Azure-Pricing/   # Cost management, Pricing models  
-│   ├── 05-Governance-Tools/ # Azure Policy, Blueprints, Locks  
-│   ├── Hands-On-Labs/      # Hands-on project-based exercises  
-│   ├── Notes.md            # Personal notes & key takeaways  
-│── AZ-104-Administrator/   # AZ-104 learning & practical exercises  
-│── Real-World-Projects/    # Applied Azure projects beyond certification  
-│── Resources/              # Reference materials, books, links  
-│── Journal.md              # Daily/weekly learning log  
-│── LICENSE                 # Open-source license (MIT recommended)  
+│── README.md               # Overview and roadmap
+│── AZ-900-Fundamentals/
+│   ├── 01-Cloud-Concepts/
+│   ├── 02-Core-Azure-Services/
+│   ├── 03-Security-Compliance/
+│   ├── 04-Azure-Pricing/
+│   ├── 05-Governance-Tools/
+│   ├── Hands-On-Labs/
+│   └── Notes.md
+│── AZ-104-Administrator/
+│── Real-World-Projects/
+│── Terraform-IaC/
+│── Kubernetes-AKS/
+│── CI-CD-Automation/
+│── Security-Compliance/
+│── Monitoring-Logging/
+│── Resources/
+│── Journal.md              # Learning log
+│── LICENSE                 # MIT License
 ```
 
 ---
 
-## 🚀 **Current Progress**
+## 🚀 Real-World Azure Projects
 
-📅 **Learning AZ-900** | 🔥 Tracking Progress in ***Journal.md***
+- [**Terraform Infrastructure Automation**](#)
+  - Automated provisioning of Azure infrastructure (VMs, networks, storage)
 
-### 📖 **Weekly Learning Highlights**
+- [**Kubernetes Application Deployment on AKS**](#)
+  - Scalable, secure web application deployment
 
-#### 📅 ***Week 1: Cloud Concepts (AZ-900)***
+- [**Azure Cloud Security & Compliance**](#)
+  - Implementation of RBAC, Azure Policies, and security best practices
 
-✅ **Key Learnings**
+- [**CI/CD Automation with GitHub Actions & Azure DevOps**](#)
+  - Continuous Integration & Delivery for cloud resources
 
-- Explained the **Shared Responsibility Model**.
-- Compared **IaaS vs. PaaS vs. SaaS**.
-- Explored **Azure Pricing Calculator** & **Cost Management tools**.
-
-🛠️ **Hands-On Work**
-
-- Created a **Free Azure Account**.
-- Set up an **Azure Virtual Machine**.
-- Configured **Storage Account & Blob Storage**.
-
-📅 **Week 2: Exploring Azure Services**
-
-✅ **Key Learnings**
-
-- Virtual Networking (VNet, Subnets, NSG, VPN, ExpressRoute).
-- Azure Compute Services (VMs, Azure App Service, Functions).
-- Identity management using **Entra ID (Azure AD)**.
-
-🛠️ **Hands-On Work**
-
-- Created an **Azure Virtual Network & Subnet**.
-- Deployed a **Web App using Azure App Service**.
-- Configured **RBAC for user access control**.
+- [**AI-Driven Cloud Monitoring & Optimization**](#)
+  - Performance monitoring & cost optimization using Azure Monitor and AI-driven analytics
 
 ---
 
-## 🔬 **Hands-On Labs & Practical Exercises**
-For each concept, **document step-by-step practical exercises.**
-
-**Example: Deploy an Azure Virtual Machine (AZ-900-Fundamentals/Hands-On-Labs/VM-Deployment.md)**
-
-# 🚀 **Deploy an Azure Virtual Machine**
-
-## ✅ **Objective**
-
-- Learn how to create a Virtual Machine in Azure.
-- Configure networking and security rules.
-- Understand VM pricing and cost estimation.
-
-## 🔹 **Step 1: Log into Azure Portal**
-
-Go to [portal.azure.com](https://portal.azure.com) and sign in with your Microsoft account.
-
-## 🔹 **Step 2: Navigate to Virtual Machines**
-
-1. Click on **"Create a resource"**.
-2. Select **"Virtual Machine"**.
-3. Choose a **region** and a **VM size** (e.g., `Standard_B1ls` for low-cost).
-4. Select **Windows/Linux OS** and authentication method (SSH or Password).
-
-## 🔹 **Step 3: Configure Networking**
-
-- Create a **Virtual Network (VNet)**.
-- Define a **Subnet**.
-- Set up a **Network Security Group (NSG)**.
-
-## 🔹 **Step 4: Deploy & Connect**
-
-- Click **"Review + Create"**.
-- After deployment, connect using SSH or RDP.
-- Verify the VM is running.
+## 📌 Next Steps
+- [x] Commit initial setup & learning journal.
+- [ ] Complete AZ-900 topics and hands-on labs.
+- [ ] Document detailed tutorials for each Azure service.
+- [ ] Build Terraform & IaC templates for automated deployments.
+- [ ] Start preparations for AZ-104.
 
 ---
 
-## 📌 **Next Steps**
+## 🤝 Contributing
+Contributions are welcome! To contribute, please:
 
-- Commit initial setup & learning journal.  
-- Start documenting **AZ-900 topics** & hands-on labs.
-- Write **step-by-step tutorials** for each Azure service.  
-- Create **Terraform & IaC templates** for automating deployments.  
-
----
-
-## 🤝 Contributing  
-Contributions are welcome! If you'd like to **collaborate, improve documentation, or share best practices**, follow these steps:  
-
-1. **Fork** the repository.  
-2. **Create a new branch** for your feature or bug fix.  
-3. **Make your changes** and commit them.  
-4. **Submit a pull request** for review.  
+1. **Fork** the repository.
+2. **Create a branch** for your feature or fix.
+3. **Commit** your changes clearly.
+4. **Open a Pull Request**.
 
 ---
 
-## 📜 License  
-Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.  
+## 📜 License
+Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 📧 Contact & Connect  
-For any questions, feel free to reach out:  
+## 📧 Contact & Connect
+Feel free to connect with me:
 
-📩 **Email**: [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
-🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)  
+- 📩 **Email:** [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)
+- 🔗 **LinkedIn:** [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)
+
+---
+
+🌟 **Let's build secure, efficient, and automated cloud solutions together!** 🚀
