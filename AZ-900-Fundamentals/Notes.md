@@ -72,4 +72,14 @@ This document contains **key notes, summaries, and references** for the **Micros
 - **Azure Arc for Hybrid Cloud Management**.
 - [Read More](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/3-Describe-Azure-Management-Governance/3.3-Managing-Deploying-Resources.md)
 
+### **3.4 Monitoring Tools**
+- **Azure Monitor, Log Analytics, Service Health**.
+- **Prometheus & Grafana for advanced monitoring**.
+- [Read More](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/3-Describe-Azure-Management-Governance/3.4-Monitoring-Tools.md)
+
+---
+
+
+
+
 
