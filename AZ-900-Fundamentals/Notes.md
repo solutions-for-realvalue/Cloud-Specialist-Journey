@@ -89,5 +89,11 @@ This document contains **key notes, summaries, and references** for the **Micros
 
 ---
 
+## **Next Steps**
+- [ ] Refine Terraform automation scripts.
+- [ ] Explore advanced security features like Microsoft Sentinel.
+- [ ] Implement serverless architectures with Azure Functions.
+- [ ] Achieve **AZ-900 Certification** and progress to **AZ-104**.
 
+---
 
