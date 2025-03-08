@@ -67,6 +67,33 @@ This repository tracks my **structured journey** to becoming a **Senior Cloud Sp
 
 ---
 
+## 📂 Repository Structure
+
+```bash
+Cloud-Specialist-Journey/
+│── README.md               # Overview and roadmap
+│── AZ-900-Fundamentals/
+│   ├── 01-Cloud-Concepts/
+│   ├── 02-Core-Azure-Services/
+│   ├── 03-Security-Compliance/
+│   ├── 04-Azure-Pricing/
+│   ├── 05-Governance-Tools/
+│   ├── Hands-On-Labs/
+│   └── Notes.md
+│── AZ-104-Administrator/
+│── Real-World-Projects/
+│── Terraform-IaC/
+│── Kubernetes-AKS/
+│── CI-CD-Automation/
+│── Security-Compliance/
+│── Monitoring-Logging/
+│── Resources/
+│── Journal.md              # Learning log
+│── LICENSE                 # MIT License
+```
+
+---
+
 ## 📌 Next Steps
 - [x] Commit initial setup & learning journal.
 - [ ] Complete AZ-900 topics and hands-on labs.
