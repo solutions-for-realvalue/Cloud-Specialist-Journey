@@ -50,7 +50,7 @@ This repository tracks my **structured journey** to becoming a **Senior Cloud Sp
 
 ## 📂 Repository Structure
 
-```
+```bash
 Cloud-Specialist-Journey/
 │── README.md               # Overview and roadmap
 │── AZ-900-Fundamentals/
