@@ -11,7 +11,7 @@
 
 ## 📌 About This Repository
 
-This repository tracks my **structured journey** to becoming a **Senior Cloud Specialist** with expertise in **Microsoft Azure**. It documents my progress from foundational knowledge (AZ-900), through intermediate certification (**AZ-104**), and onward to advanced **real-world cloud engineering projects**, with a strong emphasis on:
+This repository tracks my **structured journey** to becoming a **Senior Cloud Specialist** with expertise in **Microsoft Azure**. It documents my progress from foundational knowledge (AZ-900), and onward to advanced **real-world cloud engineering projects**, with a strong emphasis on:
 
 - **Azure Cloud Infrastructure & Services**
 - **Infrastructure as Code (Terraform, ARM)**
@@ -48,36 +48,9 @@ This repository tracks my **structured journey** to becoming a **Senior Cloud Sp
 
 ---
 
-## 📂 Repository Structure
+## 🚀 Featured  Azure Projects
 
-```bash
-Cloud-Specialist-Journey/
-│── README.md               # Overview and roadmap
-│── AZ-900-Fundamentals/
-│   ├── 01-Cloud-Concepts/
-│   ├── 02-Core-Azure-Services/
-│   ├── 03-Security-Compliance/
-│   ├── 04-Azure-Pricing/
-│   ├── 05-Governance-Tools/
-│   ├── Hands-On-Labs/
-│   └── Notes.md
-│── AZ-104-Administrator/
-│── Real-World-Projects/
-│── Terraform-IaC/
-│── Kubernetes-AKS/
-│── CI-CD-Automation/
-│── Security-Compliance/
-│── Monitoring-Logging/
-│── Resources/
-│── Journal.md              # Learning log
-│── LICENSE                 # MIT License
-```
-
----
-
-## 🚀 Real-World Azure Projects
-
-- [**Terraform Infrastructure Automation**](https://github.com/solutions-for-realvalue/Azure-Infrastructure-Automation)
+- [**Azure Infrastructure Automation with Terraform**](https://github.com/solutions-for-realvalue/Azure-Infrastructure-Automation)
   - Automated provisioning of Azure infrastructure (VMs, networks, storage)
 
 - [**Kubernetes Application Deployment on AKS**](https://github.com/solutions-for-realvalue/AKS-Kubernetes-Deployment)
@@ -86,7 +59,7 @@ Cloud-Specialist-Journey/
 - [**Azure Cloud Security & Compliance**](https://github.com/solutions-for-realvalue/Azure-Security-Compliance)
   - Implementation of RBAC, Azure Policies, and security best practices
 
-- [**CI/CD Automation with GitHub Actions & Azure DevOps**](https://github.com/solutions-for-realvalue/Azure-Monitoring-CostManagement)
+- [**Azure Monitoring & Cost Management**](https://github.com/solutions-for-realvalue/Azure-Monitoring-CostManagement)
   - Continuous Integration & Delivery for cloud resources
 
 - **AI-Driven Cloud Monitoring & Optimization** (Planned)
