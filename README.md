@@ -126,8 +126,9 @@ Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
 Feel free to connect with me:
 
 📩 **Email:** [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)
+
 🔗 **LinkedIn:** [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)
 
 ---
 
-🌟 **Let's build secure, efficient, and automated cloud solutions together!** 🚀
+🌟 **Let's build secure, efficient, and automated cloud solutions together!**
