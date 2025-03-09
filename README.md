@@ -1,4 +1,4 @@
-# ☁️ **Cloud Specialist Journey** 🚀
+# ☁️ **Cloud Specialist Journey**
 
 Structured Learning & Practical Implementation for Microsoft Azure Cloud Engineering
 
@@ -9,7 +9,7 @@ Structured Learning & Practical Implementation for Microsoft Azure Cloud Enginee
 
 ---
 
-## 📌 About This Repository
+## About This Repository
 
 This repository tracks my **structured journey** to becoming a **Senior Cloud Specialist** with expertise in **Microsoft Azure**. It documents my progress from foundational knowledge (AZ-900), and onward to advanced **real-world cloud engineering projects**, with a strong emphasis on:
 
@@ -20,9 +20,9 @@ This repository tracks my **structured journey** to becoming a **Senior Cloud Sp
 
 ---
 
-## 📖 Learning Roadmap
+## Learning Roadmap
 
-### ✅ **Phase 1: AZ-900 Microsoft Azure Fundamentals**
+### **Phase 1: AZ-900 Microsoft Azure Fundamentals**
 
 * **Cloud Concepts** – Cloud types, Shared Responsibility Model, Azure Architecture
 * **Core Azure Services** – Compute, Storage, Networking
@@ -30,7 +30,7 @@ This repository tracks my **structured journey** to becoming a **Senior Cloud Sp
 * **Pricing & Cost Management** – Cost calculator, budgeting, optimization
 * **Governance & Compliance** – Azure Policy, Resource Groups, Management Groups, Resource Locks
 
-### 🚧 **Phase 2: AZ-104 Microsoft Azure Administrator** *(Upcoming)*
+### **Phase 2: AZ-104 Microsoft Azure Administrator** *(Upcoming)*
 
 * Managing Azure identities & access
 * Implementing Azure storage solutions
@@ -38,7 +38,7 @@ This repository tracks my **structured journey** to becoming a **Senior Cloud Sp
 * Monitoring & maintaining Azure resources
 * Automating infrastructure & deployments
 
-### 🚀 **Phase 3: Real-World Cloud Projects** *(In Progress)*
+### **Phase 3: Real-World Cloud Projects** *(In Progress)*
 
 * Infrastructure provisioning with **Terraform**
 * Kubernetes deployments with **Azure AKS**
@@ -48,7 +48,7 @@ This repository tracks my **structured journey** to becoming a **Senior Cloud Sp
 
 ---
 
-## 🚀 Featured  Azure Projects
+## Featured  Azure Projects
 
 * [**Azure Infrastructure Automation with Terraform**](https://github.com/solutions-for-realvalue/Azure-Infrastructure-Automation)
   * Automated provisioning of Azure infrastructure (VMs, networks, storage)
@@ -94,7 +94,7 @@ Cloud-Specialist-Journey/
 
 ---
 
-## 📌 Next Steps
+## Next Steps
 
 * [x] Commit initial setup & learning journal.
 * [ ] Complete AZ-900 topics and hands-on labs.
@@ -131,4 +131,4 @@ Feel free to connect with me:
 
 ---
 
-🌟 **Let's build secure, efficient, and automated cloud solutions together!**
+**Let's build secure, efficient, and automated cloud solutions together!**
