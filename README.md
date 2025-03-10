@@ -1,4 +1,4 @@
-# ☁️ **Cloud Specialist Journey**
+# **Cloud Specialist Journey**
 
 Structured Learning & Practical Implementation for Microsoft Azure Cloud Engineering
 
@@ -67,7 +67,7 @@ This repository tracks my **structured journey** to becoming a **Senior Cloud Sp
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```bash
 Cloud-Specialist-Journey/
@@ -104,7 +104,7 @@ Cloud-Specialist-Journey/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! To contribute, please:
 
@@ -115,13 +115,13 @@ Contributions are welcome! To contribute, please:
 
 ---
 
-## 📜 License
+## License
 
 Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 📧 Contact & Connect
+## Contact & Connect
 
 Feel free to connect with me:
 
