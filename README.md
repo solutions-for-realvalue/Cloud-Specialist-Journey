@@ -13,10 +13,10 @@
 
 This repository tracks my **structured journey** to becoming a **Senior Cloud Specialist** with expertise in **Microsoft Azure**. It documents my progress from foundational knowledge (AZ-900), and onward to advanced **real-world cloud engineering projects**, with a strong emphasis on:
 
-- **Azure Cloud Infrastructure & Services**
-- **Infrastructure as Code (Terraform, ARM)**
-- **Cloud Security & Compliance**
-- **Monitoring, Automation & CI/CD**
+*   **Azure Cloud Infrastructure & Services**
+*   **Infrastructure as Code (Terraform, ARM)**
+*   **Cloud Security & Compliance**
+*   **Monitoring, Automation & CI/CD**
 
 ---
 
@@ -24,46 +24,46 @@ This repository tracks my **structured journey** to becoming a **Senior Cloud Sp
 
 ### ✅ **Phase 1: AZ-900 Microsoft Azure Fundamentals**
 
-- **Cloud Concepts** – Cloud types, Shared Responsibility Model, Azure Architecture
-- **Core Azure Services** – Compute, Storage, Networking
-- **Security & Identity** – Entra ID, RBAC, Azure Key Vault
-- **Pricing & Cost Management** – Cost calculator, budgeting, optimization
-- **Governance & Compliance** – Azure Policy, Resource Groups, Management Groups, Resource Locks
+*   **Cloud Concepts** – Cloud types, Shared Responsibility Model, Azure Architecture
+*   **Core Azure Services** – Compute, Storage, Networking
+*   **Security & Identity** – Entra ID, RBAC, Azure Key Vault
+*   **Pricing & Cost Management** – Cost calculator, budgeting, optimization
+*   **Governance & Compliance** – Azure Policy, Resource Groups, Management Groups, Resource Locks
 
 ### 🚧 **Phase 2: AZ-104 Microsoft Azure Administrator** *(Upcoming)*
 
-- Managing Azure identities & access
-- Implementing Azure storage solutions
-- Deploying virtual machines & networking
-- Monitoring & maintaining Azure resources
-- Automating infrastructure & deployments
+*   Managing Azure identities & access
+*   Implementing Azure storage solutions
+*   Deploying virtual machines & networking
+*   Monitoring & maintaining Azure resources
+*   Automating infrastructure & deployments
 
 ### 🚀 **Phase 3: Real-World Cloud Projects** *(In Progress)*
 
-- Infrastructure provisioning with **Terraform**
-- Kubernetes deployments with **Azure AKS**
-- Secure cloud solutions (RBAC, Azure Policies, Security Center)
-- Cost and performance optimization
-- Advanced CI/CD pipeline automation (GitHub Actions, Azure DevOps)
+*   Infrastructure provisioning with **Terraform**
+*   Kubernetes deployments with **Azure AKS**
+*   Secure cloud solutions (RBAC, Azure Policies, Security Center)
+*   Cost and performance optimization
+*   Advanced CI/CD pipeline automation (GitHub Actions, Azure DevOps)
 
 ---
 
 ## 🚀 Featured  Azure Projects
 
-- [**Azure Infrastructure Automation with Terraform**](https://github.com/solutions-for-realvalue/Azure-Infrastructure-Automation)
-  - Automated provisioning of Azure infrastructure (VMs, networks, storage)
+*   [**Azure Infrastructure Automation with Terraform**](https://github.com/solutions-for-realvalue/Azure-Infrastructure-Automation)
+    *   Automated provisioning of Azure infrastructure (VMs, networks, storage)
 
-- [**Kubernetes Application Deployment on AKS**](https://github.com/solutions-for-realvalue/AKS-Kubernetes-Deployment)
-  - Scalable, secure web application deployment
+*   [**Kubernetes Application Deployment on AKS**](https://github.com/solutions-for-realvalue/AKS-Kubernetes-Deployment)
+    *   Scalable, secure web application deployment
 
-- [**Azure Cloud Security & Compliance**](https://github.com/solutions-for-realvalue/Azure-Security-Compliance)
-  - Implementation of RBAC, Azure Policies, and security best practices
+*   [**Azure Cloud Security & Compliance**](https://github.com/solutions-for-realvalue/Azure-Security-Compliance)
+    *   Implementation of RBAC, Azure Policies, and security best practices
 
-- [**Azure Monitoring & Cost Management**](https://github.com/solutions-for-realvalue/Azure-Monitoring-CostManagement)
-  - Continuous Integration & Delivery for cloud resources
+*   [**Azure Monitoring & Cost Management**](https://github.com/solutions-for-realvalue/Azure-Monitoring-CostManagement)
+    *   Continuous Integration & Delivery for cloud resources
 
-- **AI-Driven Cloud Monitoring & Optimization** (Planned)
-  - Performance monitoring & cost optimization using Azure Monitor and AI-driven analytics
+*   **AI-Driven Cloud Monitoring & Optimization** (Planned)
+    *   Performance monitoring & cost optimization using Azure Monitor and AI-driven analytics
 
 ---
 
@@ -95,11 +95,11 @@ Cloud-Specialist-Journey/
 ---
 
 ## 📌 Next Steps
-- [x] Commit initial setup & learning journal.
-- [ ] Complete AZ-900 topics and hands-on labs.
-- [ ] Document detailed tutorials for each Azure service.
-- [ ] Build Terraform & IaC templates for automated deployments.
-- [ ] Start preparations for AZ-104.
+*   [x] Commit initial setup & learning journal.
+*   [ ] Complete AZ-900 topics and hands-on labs.
+*   [ ] Document detailed tutorials for each Azure service.
+*   [ ] Build Terraform & IaC templates for automated deployments.
+*   [ ] Start preparations for AZ-104.
 
 ---
 
@@ -121,8 +121,8 @@ Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
 ## 📧 Contact & Connect
 Feel free to connect with me:
 
-- 📩 **Email:** [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)
-<!-- - 🔗 **LinkedIn:** [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda) -->
+*   📩 **Email:** [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)
+*   🔗 **LinkedIn:** [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)
 
 ---
 
