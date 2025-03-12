@@ -54,6 +54,8 @@ This hands-on lab provides step-by-step instructions to deploy a **Virtual Machi
    - `Ubuntu 22.04` (for Linux-based workloads)
 8. **Size**: Select a VM size based on workload requirements (e.g., `Standard_B1s` for testing).
 
+![image](https://github.com/user-attachments/assets/e6248ae0-ac91-4ec7-bb0f-6d5880251a2b)
+
 ### **2.3 Configure Authentication**
 
 1. **Administrator Account**:
