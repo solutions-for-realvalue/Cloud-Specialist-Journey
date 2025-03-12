@@ -1,6 +1,7 @@
 # Lab 1: Create an Azure Virtual Machine
 
 ## **Objective**
+
 This hands-on lab provides step-by-step instructions to deploy a **Virtual Machine (VM)** in Microsoft Azure. By the end of this lab, you will:
 - Create a **Windows or Linux VM** using the **Azure Portal**.
 - Configure **networking, storage, and authentication** settings.
@@ -9,6 +10,7 @@ This hands-on lab provides step-by-step instructions to deploy a **Virtual Machi
 ---
 
 ## **Prerequisites**
+
 - An **Azure account** with an active subscription.
 - Internet access to connect to the **Azure Portal**.
 - Basic knowledge of **Azure compute and networking concepts**.
@@ -16,17 +18,23 @@ This hands-on lab provides step-by-step instructions to deploy a **Virtual Machi
 ---
 
 ## **Step 1: Log in to Azure Portal**
+
 1. Open a web browser and go to [Azure Portal](https://portal.azure.com).
 2. Sign in with your **Azure credentials**.
+![image](https://github.com/user-attachments/assets/f3d8c427-d283-4eca-bbae-ccf8315afa3d)
+
 
 ---
 
 ## **Step 2: Create a Virtual Machine**
+
 ### **2.1 Navigate to the Virtual Machines Section**
+
 1. In the Azure Portal, search for **Virtual Machines** in the search bar.
 2. Click on **Virtual Machines** and select **+ Create > Azure virtual machine**.
 
 ### **2.2 Configure Basic Settings**
+
 1. **Subscription**: Select your active subscription.
 2. **Resource Group**: Click **Create new** or choose an existing one.
 3. **Virtual Machine Name**: Enter a unique name (e.g., `MyAzureVM`).
@@ -34,12 +42,15 @@ This hands-on lab provides step-by-step instructions to deploy a **Virtual Machi
 5. **Availability Options**: Choose:
    - `No infrastructure redundancy` (default for simple deployments)
    - `Availability Zone` or `Availability Set` (for high availability)
+
 6. **Image**: Choose an OS:
+7. 
    - `Windows Server 2022` (for Windows-based workloads)
    - `Ubuntu 22.04` (for Linux-based workloads)
-7. **Size**: Select a VM size based on workload requirements (e.g., `Standard_B1s` for testing).
+8. **Size**: Select a VM size based on workload requirements (e.g., `Standard_B1s` for testing).
 
 ### **2.3 Configure Authentication**
+
 1. **Administrator Account**:
    - **For Windows:** Create a username and password.
    - **For Linux:** Choose SSH public key or password authentication.
@@ -49,6 +60,7 @@ This hands-on lab provides step-by-step instructions to deploy a **Virtual Machi
 ---
 
 ## **Step 3: Configure Networking**
+
 1. **Virtual Network (VNet)**: Select an existing VNet or create a new one.
 2. **Subnet**: Choose a subnet for network isolation.
 3. **Public IP**: Enable if you want external access.
@@ -59,6 +71,7 @@ This hands-on lab provides step-by-step instructions to deploy a **Virtual Machi
 ---
 
 ## **Step 4: Configure Disks and Storage**
+
 1. **OS Disk Type**: Choose **Standard SSD** (recommended for general workloads).
 2. **Enable Boot Diagnostics**: Helps with troubleshooting VM issues.
 
@@ -72,6 +85,7 @@ This hands-on lab provides step-by-step instructions to deploy a **Virtual Machi
 ---
 
 ## **Step 6: Connect to the VM**
+
 ### **6.1 Connect to a Windows VM using RDP**
 1. Navigate to your deployed **Windows VM** in the Azure Portal.
 2. Click on **Connect > RDP**.
