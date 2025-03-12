@@ -21,8 +21,8 @@ This hands-on lab provides step-by-step instructions to deploy a **Virtual Machi
 
 1. Open a web browser and go to [Azure Portal](https://portal.azure.com).
 2. Sign in with your **Azure credentials**.
-![image](https://github.com/user-attachments/assets/f3d8c427-d283-4eca-bbae-ccf8315afa3d)
 
+![image](https://github.com/user-attachments/assets/087af91e-6ebd-48c0-916f-bfb78227869f)
 
 ---
 
@@ -30,11 +30,13 @@ This hands-on lab provides step-by-step instructions to deploy a **Virtual Machi
 
 ### **2.1 Navigate to the Virtual Machines Section**
 
-![image](https://github.com/user-attachments/assets/1e8472c0-25e9-4b23-a0d8-de1c69e5ac6a)
-
-
 1. In the Azure Portal, search for **Virtual Machines** in the search bar.
+
+![image](https://github.com/user-attachments/assets/225a8cad-0109-49fc-8da6-f5a79ab8b7e0)
+
 2. Click on **Virtual Machines** and select **+ Create > Azure virtual machine**.
+
+![image](https://github.com/user-attachments/assets/4dafa8ba-413d-4ebf-87bc-d5cb2df3d732)
 
 ### **2.2 Configure Basic Settings**
 
