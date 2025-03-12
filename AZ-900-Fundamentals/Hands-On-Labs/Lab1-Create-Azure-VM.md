@@ -30,6 +30,9 @@ This hands-on lab provides step-by-step instructions to deploy a **Virtual Machi
 
 ### **2.1 Navigate to the Virtual Machines Section**
 
+![image](https://github.com/user-attachments/assets/1e8472c0-25e9-4b23-a0d8-de1c69e5ac6a)
+
+
 1. In the Azure Portal, search for **Virtual Machines** in the search bar.
 2. Click on **Virtual Machines** and select **+ Create > Azure virtual machine**.
 
