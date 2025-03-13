@@ -74,23 +74,6 @@ This journal serves as a **chronological record** of my learning process, challe
 - [**Lab 4: Identity & Access Management**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/Hands-On-Labs/Lab4-Identity-Access-Management.md)
 - [**Lab 5: Azure Pricing Calculator**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/Hands-On-Labs/Lab5-Azure-Pricing-Calculator.md)
 
-<!-- **Topics Covered:**
-- Introduction to Azure Cloud and shared responsibility model.
-- Compute, Storage, Networking fundamentals.
-- Identity management with Entra ID (formerly Azure Active Directory).
-- Resource Management: Subscriptions, Resource Groups, Tags.
-- Governance & Cost Optimization techniques.
-
-**Hands-on Labs:**
-- Created an Azure subscription and set up resource groups.
-- Deployed Virtual Machines using Azure Portal and CLI.
-- Configured Storage Accounts and explored cost estimation.
-
-**Key Takeaways:**
-- Gained a deeper understanding of Azure’s global infrastructure.
-- Learned how to organize resources effectively.
-- Explored pricing tools to optimize cloud spending. -->
-
 ## **Infrastructure as Code (Terraform & ARM Templates)**
 
 **Topics Covered:**
